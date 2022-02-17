@@ -11,7 +11,7 @@ Step 3: run infer.py to generate submission.csv
 
 
 
-Refrecence:
+Reference:
 
 Kaggle Competition Website: https://www.kaggle.com/c/tensorflow-great-barrier-reef
 

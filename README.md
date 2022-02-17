@@ -2,7 +2,7 @@
 use tf2 and yolox to identify the crown-of-thorns starfish (COTS) in real time
 
 
-Step 1: run annotation.py to generate train.txt and val.txt
+Step 1: run annotation.py to generate train.txt and val.txt and convert coco to voc
 
 Step 2: run train.py
 

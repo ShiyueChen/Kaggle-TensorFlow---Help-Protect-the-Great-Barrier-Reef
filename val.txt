@@ -1,0 +1,492 @@
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/27.jpg 522,191,586,243,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/45.jpg 525,145,621,228,0 613,253,685,296,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/82.jpg 385,333,456,399,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/93.jpg 322,507,414,585,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/94.jpg 316,523,410,602,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/95.jpg 308,540,408,621,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/97.jpg 294,572,405,658,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/99.jpg 282,606,398,694,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/130.jpg 666,18,696,49,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/133.jpg 665,38,696,71,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/153.jpg 633,230,679,279,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/251.jpg 897,286,934,321,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/265.jpg 976,389,1015,427,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/267.jpg 989,407,1029,446,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/287.jpg 1177,632,1240,697,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/331.jpg 325,183,360,208,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/334.jpg 330,180,365,205,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/341.jpg 319,153,352,185,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/346.jpg 300,176,336,209,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/351.jpg 277,202,314,235,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/370.jpg 68,405,140,467,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/374.jpg 0,466,71,548,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/388.jpg 1032,481,1074,534,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/397.jpg 1023,650,1073,705,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/882.jpg 712,624,763,662,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/885.jpg 714,620,772,673,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/889.jpg 734,662,790,718,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/973.jpg 807,195,853,228,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/984.jpg 844,260,903,300,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/987.jpg 857,278,921,320,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/991.jpg 872,299,941,343,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/993.jpg 885,307,956,352,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/995.jpg 897,316,970,361,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1015.jpg 1031,423,1129,490,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1017.jpg 1045,446,1143,513,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1019.jpg 1058,469,1156,536,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1027.jpg 1157,583,1277,686,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1562.jpg 9,520,60,553,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1851.jpg 283,365,318,391,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1860.jpg 304,383,342,404,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1863.jpg 333,384,372,406,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1872.jpg 356,321,397,352,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1880.jpg 371,295,412,326,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1893.jpg 799,109,861,156,0 487,216,528,247,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1906.jpg 964,96,1026,143,0 607,257,654,296,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1907.jpg 976,102,1038,149,0 617,271,665,311,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1908.jpg 989,114,1051,163,0 626,285,675,326,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1916.jpg 1093,206,1160,265,0 703,411,754,455,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1922.jpg 1160,306,1239,357,0 747,528,798,572,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1926.jpg 1178,372,1279,450,0 766,620,822,675,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/1928.jpg 1210,415,1279,493,0 779,679,835,719,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/2282.jpg 577,241,610,272,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/2283.jpg 574,244,607,276,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/2293.jpg 543,299,581,332,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/2310.jpg 451,388,493,424,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/2337.jpg 239,593,293,642,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/2338.jpg 230,604,284,654,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4207.jpg 610,82,639,101,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4248.jpg 629,286,672,317,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4254.jpg 619,267,666,304,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4275.jpg 585,344,646,393,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4282.jpg 593,416,661,469,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4288.jpg 608,495,678,555,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4291.jpg 615,534,686,597,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4298.jpg 641,634,715,705,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4499.jpg 174,403,221,434,0 54,457,110,489,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4508.jpg 131,485,187,521,0 0,560,54,604,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4521.jpg 42,646,123,708,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4532.jpg 189,9,232,38,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4535.jpg 188,10,229,42,0 136,25,178,53,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4556.jpg 188,60,238,103,0 127,74,183,114,0 461,155,491,180,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4562.jpg 182,80,232,123,0 117,95,173,135,0 464,181,497,209,0 228,31,274,60,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4564.jpg 177,83,227,126,0 114,102,170,142,0 465,190,499,219,0 226,35,272,64,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4579.jpg 137,109,192,160,0 58,130,128,181,0 472,235,514,277,0 187,47,248,80,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4585.jpg 115,124,171,177,0 31,145,103,202,0 472,254,518,305,0 168,55,233,89,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4604.jpg 100,166,168,244,0 6,216,83,279,0 540,326,602,395,0 162,73,238,115,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4613.jpg 49,252,127,338,0 0,308,35,373,0 564,423,642,507,0 117,128,200,178,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4627.jpg 0,359,85,431,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4628.jpg 0,383,73,455,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4629.jpg 0,398,63,470,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4650.jpg 672,70,701,96,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4657.jpg 667,101,696,127,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4670.jpg 631,175,659,201,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4671.jpg 628,180,656,206,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4676.jpg 612,208,640,234,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4702.jpg 511,345,555,389,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4710.jpg 485,406,536,455,0 278,0,318,38,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4723.jpg 427,540,491,593,0 213,14,262,57,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4724.jpg 424,554,489,607,0 205,13,263,67,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4738.jpg 163,81,221,135,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4762.jpg 0,145,57,197,0 122,134,213,175,0 53,325,132,401,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4774.jpg 0,300,36,358,0 113,265,209,319,0 4,542,86,621,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4777.jpg 105,294,201,352,0 0,593,66,696,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4830.jpg 585,111,624,138,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4832.jpg 574,113,615,141,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4833.jpg 568,115,610,144,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4847.jpg 468,195,524,231,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4853.jpg 419,249,483,289,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4855.jpg 403,267,470,308,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4863.jpg 337,373,410,421,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4868.jpg 295,452,363,510,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/4995.jpg 551,39,601,68,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5001.jpg 558,74,613,111,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5011.jpg 569,145,627,188,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5030.jpg 565,332,647,392,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5034.jpg 564,366,648,431,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5036.jpg 563,384,648,451,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5037.jpg 563,394,651,462,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5040.jpg 561,438,656,511,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5702.jpg 302,567,345,611,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/5715.jpg 195,547,234,586,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8214.jpg 658,194,686,219,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8233.jpg 682,241,716,275,0 887,680,914,714,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8249.jpg 718,294,759,329,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8257.jpg 747,342,794,380,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8264.jpg 780,396,829,440,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8272.jpg 825,483,874,528,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8911.jpg 527,453,557,477,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8913.jpg 529,470,559,494,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8930.jpg 932,328,964,356,0 563,624,602,660,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8933.jpg 949,332,983,362,0 576,640,615,673,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8935.jpg 961,332,996,363,0 1013,390,1047,420,0 585,651,625,683,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8942.jpg 970,365,1006,397,0 1028,426,1062,456,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8947.jpg 977,421,1013,453,0 1041,484,1065,514,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8961.jpg 1046,583,1082,615,0 1121,651,1152,684,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8967.jpg 1075,670,1111,702,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/8969.jpg 1087,704,1123,719,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9236.jpg 1027,334,1067,366,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9238.jpg 1034,345,1074,377,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9244.jpg 1017,343,1057,375,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9255.jpg 960,289,1000,321,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9268.jpg 1023,344,1065,387,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9275.jpg 1052,404,1101,452,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9276.jpg 1056,412,1106,461,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9278.jpg 1067,427,1119,477,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9290.jpg 1131,529,1187,581,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9295.jpg 1145,581,1203,640,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9298.jpg 1152,614,1211,678,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9299.jpg 1154,625,1214,691,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9333.jpg 810,107,866,152,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9334.jpg 807,112,863,157,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9335.jpg 804,117,860,162,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9339.jpg 792,137,848,182,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9340.jpg 789,142,845,187,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9341.jpg 786,147,842,192,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9375.jpg 630,554,707,624,0 601,261,677,313,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9378.jpg 620,612,697,682,0 591,292,668,349,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9379.jpg 617,633,694,703,0 588,303,665,362,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9401.jpg 540,603,630,693,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9405.jpg 526,688,616,719,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9429.jpg 830,401,863,441,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9437.jpg 827,468,860,508,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9466.jpg 309,618,383,670,0 634,588,679,626,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9500.jpg 39,115,102,153,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9506.jpg 40,172,103,210,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9509.jpg 42,190,105,228,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9522.jpg 24,284,89,331,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9531.jpg 0,331,54,384,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9556.jpg 723,594,762,625,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9557.jpg 723,599,762,630,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9558.jpg 723,604,762,635,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9566.jpg 731,658,774,695,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9606.jpg 345,237,364,256,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9607.jpg 346,246,365,265,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9630.jpg 327,440,347,461,0 212,297,252,332,0 217,259,251,286,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9659.jpg 310,605,341,637,0 171,355,224,405,0 166,307,210,350,0 46,207,107,258,0 797,328,832,365,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9663.jpg 313,621,346,655,0 170,352,225,405,0 165,306,209,349,0 41,199,102,250,0 813,319,848,356,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9683.jpg 107,425,173,494,0 108,377,152,420,0 884,385,919,425,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9691.jpg 57,535,129,605,0 60,478,105,524,0 914,476,950,520,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9700.jpg 0,670,60,719,0 0,615,44,673,0 507,173,544,205,0 941,595,983,646,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9708.jpg 494,215,536,249,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9712.jpg 487,238,531,274,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9727.jpg 440,335,488,376,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9730.jpg 424,352,472,393,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9734.jpg 394,382,445,427,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9735.jpg 386,389,438,435,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9767.jpg 917,361,959,396,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9789.jpg 955,613,997,655,0 226,595,287,627,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9817.jpg 675,451,701,475,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9835.jpg 708,446,738,471,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9836.jpg 712,446,742,471,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9845.jpg 746,455,776,480,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9849.jpg 758,455,788,480,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9852.jpg 769,456,799,481,0 712,186,749,220,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9853.jpg 772,457,802,483,0 714,185,751,219,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9866.jpg 810,476,841,503,0 739,175,776,209,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9871.jpg 819,492,851,520,0 744,177,781,211,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9875.jpg 823,506,857,537,0 746,178,783,212,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9879.jpg 828,519,863,552,0 751,184,788,218,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9892.jpg 842,605,878,640,0 754,219,789,259,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9893.jpg 842,615,878,651,0 754,223,789,263,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9903.jpg 751,290,786,330,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9904.jpg 750,297,785,337,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9911.jpg 747,358,782,398,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9913.jpg 747,378,782,418,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9914.jpg 747,387,782,427,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9917.jpg 747,417,782,460,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9918.jpg 748,428,784,472,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9922.jpg 752,473,788,523,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/9930.jpg 772,575,811,630,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/11878.jpg 898,32,959,74,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/11889.jpg 945,114,1015,177,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/11904.jpg 1008,252,1074,315,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/11910.jpg 1036,329,1101,394,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/11915.jpg 1054,405,1125,480,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/11928.jpg 1113,652,1185,719,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12179.jpg 442,202,473,228,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12238.jpg 122,552,174,598,0 430,581,468,607,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12247.jpg 98,595,153,643,0 438,588,477,614,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12272.jpg 556,706,600,719,0 756,370,784,392,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12273.jpg 762,373,790,395,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12277.jpg 788,383,818,407,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12291.jpg 893,440,924,465,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12293.jpg 910,455,941,480,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12295.jpg 927,470,958,495,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_0/12309.jpg 1011,582,1051,614,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/462.jpg 817,296,844,320,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/473.jpg 844,445,871,473,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/475.jpg 851,471,882,507,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/488.jpg 921,671,954,710,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/621.jpg 580,218,772,373,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/622.jpg 578,252,776,417,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/685.jpg 226,495,321,615,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/850.jpg 1099,189,1176,260,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/857.jpg 1159,321,1242,407,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/859.jpg 1176,358,1261,449,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/1927.jpg 945,525,978,561,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/1928.jpg 948,536,982,574,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/1936.jpg 971,639,1007,680,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/1937.jpg 976,654,1012,695,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/1995.jpg 922,106,966,157,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/1997.jpg 912,134,956,185,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/2011.jpg 820,300,869,359,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/3914.jpg 127,280,180,314,0 71,320,138,368,0 96,306,122,325,0 496,233,525,274,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/3926.jpg 51,258,118,302,0 1,319,68,369,0 17,298,50,323,0 479,185,509,230,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/3929.jpg 29,300,96,344,0 0,364,44,418,0 0,334,32,359,0 472,212,502,257,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/3944.jpg 444,309,483,372,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/3953.jpg 391,449,433,519,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4046.jpg 288,195,327,221,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4064.jpg 136,241,180,273,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4079.jpg 7,505,57,536,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4089.jpg 524,28,543,48,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4102.jpg 868,7,914,35,0 517,63,542,89,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4113.jpg 868,89,915,121,0 576,7,620,53,0 494,127,519,153,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4122.jpg 495,124,527,147,0 904,98,959,137,0 272,90,295,113,0 585,0,635,45,0 497,125,527,154,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4138.jpg 1046,280,1126,330,0 358,323,379,346,0 594,83,622,111,0 636,143,674,181,0 673,181,727,235,0 282,150,332,178,0 712,175,735,213,0 190,222,216,257,0 588,331,618,360,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4139.jpg 1064,274,1132,326,0 358,322,379,345,0 595,78,624,108,0 638,139,676,177,0 676,179,731,234,0 285,145,333,176,0 712,169,735,204,0 352,123,374,149,0 189,224,216,255,0 591,330,621,359,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4148.jpg 1092,254,1179,316,0 346,293,367,316,0 597,29,627,65,0 636,88,676,130,0 681,138,741,201,0 248,85,301,123,0 724,126,748,175,0 322,60,347,90,0 149,173,180,213,0 182,220,207,247,0 591,301,624,333,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4157.jpg 1222,395,1292,452,0 375,418,397,442,0 626,129,658,167,0 674,204,715,244,0 725,248,785,311,0 274,205,328,242,0 765,232,790,284,0 346,177,370,201,0 175,304,205,341,0 202,344,231,378,0 630,422,667,455,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4169.jpg 379,544,405,569,0 636,233,675,277,0 697,323,738,363,0 296,242,326,267,0 435,192,477,234,0 752,373,815,440,0 267,315,324,355,0 790,354,826,410,0 347,282,371,306,0 164,426,194,463,0 196,467,225,501,0 659,554,691,584,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4187.jpg 365,242,401,268,0 254,671,278,696,0 570,350,618,407,0 632,463,675,506,0 189,291,226,322,0 355,250,398,298,0 687,534,754,607,0 143,375,213,424,0 727,505,766,568,0 244,336,272,367,0 10,499,45,539,0 41,560,75,596,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4188.jpg 362,254,398,280,0 249,687,273,712,0 569,365,617,422,0 631,479,674,522,0 187,303,224,334,0 351,261,394,312,0 686,551,753,624,0 138,388,211,438,0 726,521,765,588,0 239,347,269,380,0 2,514,37,554,0 33,575,70,614,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4225.jpg 236,640,285,685,0 217,675,272,714,0 541,381,572,419,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4226.jpg 234,647,284,693,0 207,684,262,719,0 540,383,572,422,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4237.jpg 324,380,369,416,0 529,440,570,491,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4251.jpg 314,470,353,509,0 523,550,567,607,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4255.jpg 307,534,352,580,0 525,620,570,678,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4472.jpg 641,374,681,424,0 282,58,333,103,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4503.jpg 655,629,710,695,0 250,135,313,192,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4524.jpg 286,416,358,483,0 199,447,249,480,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4534.jpg 255,386,321,446,0 161,412,215,449,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4755.jpg 158,57,208,103,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4760.jpg 133,108,176,148,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/4777.jpg 0,217,24,266,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5213.jpg 818,0,868,43,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5217.jpg 794,106,844,157,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5228.jpg 720,407,775,475,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5230.jpg 709,413,767,484,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5233.jpg 693,421,756,496,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5248.jpg 587,526,656,608,0 600,18,640,60,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5255.jpg 492,655,567,719,0 561,70,601,112,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5257.jpg 561,89,601,131,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5260.jpg 561,117,601,159,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5261.jpg 561,127,601,169,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5267.jpg 558,178,604,223,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5268.jpg 554,182,606,231,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5279.jpg 533,234,596,289,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5297.jpg 586,474,670,550,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5304.jpg 661,584,726,658,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5306.jpg 685,626,747,688,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5307.jpg 693,638,767,721,0 293,167,327,201,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5308.jpg 706,668,780,719,0 300,180,334,212,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5322.jpg 376,146,409,185,0 275,241,313,275,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5345.jpg 241,282,281,320,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5354.jpg 240,306,282,347,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5358.jpg 239,317,281,359,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5359.jpg 239,319,281,361,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5390.jpg 314,455,350,497,0 339,514,390,571,0 227,596,272,635,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5397.jpg 351,421,387,468,0 373,503,424,560,0 270,570,307,604,0 672,110,698,148,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5407.jpg 329,426,365,474,0 344,537,395,595,0 238,590,276,629,0 678,92,704,130,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5425.jpg 212,631,248,677,0 231,694,269,719,0 243,637,269,671,0 630,379,670,429,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5432.jpg 177,585,213,631,0 178,697,222,719,0 415,167,450,197,0 206,598,232,632,0 603,364,649,419,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5438.jpg 125,695,184,719,0 131,541,167,587,0 135,655,184,693,0 378,115,416,150,0 158,564,184,598,0 572,344,618,399,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5460.jpg 440,186,483,220,0 251,442,300,495,0 379,202,417,237,0 465,124,503,155,0 397,367,427,399,0 816,435,861,469,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5475.jpg 390,118,435,160,0 193,438,249,504,0 318,149,364,191,0 312,142,342,166,0 419,47,457,78,0 349,342,384,377,0 768,482,850,540,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5498.jpg 374,671,433,721,0 406,548,463,606,0 339,416,397,467,0 408,391,456,435,0 81,461,107,487,0 108,348,134,374,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5499.jpg 374,687,431,719,0 404,549,461,607,0 336,415,394,466,0 406,391,454,435,0 74,468,100,494,0 103,356,129,382,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5501.jpg 364,694,427,720,0 399,549,456,607,0 330,413,388,464,0 402,390,450,434,0 65,472,91,498,0 91,349,117,375,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5511.jpg 342,620,406,678,0 379,471,436,529,0 303,322,364,379,0 378,300,426,344,0 25,372,51,398,0 49,233,75,259,0 247,660,285,690,0 253,667,315,716,0 42,401,86,443,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5516.jpg 311,700,373,720,0 346,543,403,601,0 270,376,337,441,0 348,353,396,397,0 5,282,31,308,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5519.jpg 325,635,382,693,0 244,455,318,523,0 334,434,382,478,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5520.jpg 313,674,370,719,0 242,496,299,548,0 321,463,369,507,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5522.jpg 236,525,298,581,0 307,510,357,562,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5523.jpg 210,569,275,639,0 299,534,350,591,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5540.jpg 231,582,295,636,0 315,537,366,594,0 0,474,32,523,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5544.jpg 226,640,284,701,0 312,587,361,646,0 0,521,26,570,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5637.jpg 600,61,630,86,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5640.jpg 610,56,642,83,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5642.jpg 616,54,649,82,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5652.jpg 759,9,786,29,0 627,112,661,141,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5658.jpg 767,89,794,110,0 632,187,666,216,0 422,301,452,324,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5663.jpg 782,101,810,124,0 637,209,672,238,0 420,319,450,342,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5665.jpg 788,104,816,129,0 642,212,679,242,0 423,318,453,341,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5668.jpg 800,105,829,131,0 649,217,688,247,0 427,316,457,339,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5681.jpg 937,174,976,203,0 893,160,928,194,0 719,279,762,314,0 474,378,512,405,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5684.jpg 963,249,1005,281,0 918,239,953,273,0 746,359,789,394,0 494,456,532,483,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5685.jpg 969,274,1011,306,0 923,261,959,295,0 750,382,794,419,0 497,482,535,509,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5695.jpg 961,360,1011,395,0 916,337,955,374,0 733,456,781,500,0 471,541,509,568,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5706.jpg 977,418,1029,456,0 924,392,985,430,0 720,491,768,535,0 439,539,477,566,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5708.jpg 986,452,1038,496,0 927,419,985,459,0 718,524,766,568,0 433,563,471,590,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5710.jpg 990,496,1043,535,0 929,455,987,502,0 717,559,768,608,0 427,594,465,621,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5714.jpg 1004,599,1067,643,0 942,556,1003,609,0 712,650,774,700,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5716.jpg 1010,660,1082,706,0 950,612,1014,666,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5805.jpg 316,67,342,95,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5806.jpg 315,59,342,89,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5808.jpg 319,48,345,78,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5816.jpg 347,0,377,14,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5834.jpg 450,99,514,165,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5837.jpg 436,102,501,168,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5840.jpg 413,90,473,153,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5842.jpg 387,67,449,133,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5849.jpg 328,39,382,94,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5868.jpg 216,148,261,187,0 222,247,277,302,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5869.jpg 211,155,256,194,0 218,256,274,312,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5906.jpg 4,1,69,54,0 21,398,61,457,0 0,454,45,501,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5910.jpg 0,34,56,89,0 11,435,51,494,0 0,494,32,536,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5915.jpg 0,91,56,160,0 0,496,38,555,0 0,553,23,604,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5924.jpg 0,233,41,291,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/5928.jpg 0,300,28,352,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6231.jpg 565,19,617,71,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6234.jpg 566,33,623,90,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6240.jpg 576,64,638,126,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6241.jpg 578,69,640,131,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6245.jpg 583,101,652,170,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6264.jpg 642,444,708,510,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6606.jpg 539,163,583,207,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6608.jpg 547,198,593,245,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6612.jpg 571,263,625,316,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6613.jpg 579,279,635,334,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6623.jpg 699,551,771,620,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6718.jpg 656,356,693,392,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6737.jpg 527,442,567,483,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6765.jpg 462,564,503,601,0 181,288,248,351,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6769.jpg 433,597,474,634,0 182,287,241,355,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6773.jpg 439,621,482,665,0 352,182,391,216,0 235,294,284,348,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6888.jpg 507,554,578,622,0 613,401,668,452,0 670,335,727,385,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6891.jpg 493,582,564,650,0 608,431,658,470,0 663,358,720,408,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6893.jpg 487,607,558,675,0 595,450,653,499,0 656,379,713,429,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6917.jpg 439,629,510,694,0 546,471,604,523,0 611,396,668,446,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6924.jpg 433,630,504,695,0 540,469,598,521,0 604,395,661,445,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/6930.jpg 590,388,657,443,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8643.jpg 295,70,328,97,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8645.jpg 272,53,306,86,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8669.jpg 143,158,177,192,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8675.jpg 58,206,92,240,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8805.jpg 560,95,592,125,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8806.jpg 562,94,594,124,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8810.jpg 578,85,610,115,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8831.jpg 546,184,605,240,0 703,222,750,260,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8852.jpg 532,429,600,496,0 731,478,785,531,0 685,179,715,207,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8856.jpg 552,528,619,590,0 763,571,817,628,0 700,247,731,278,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8857.jpg 554,545,631,617,0 768,595,824,652,0 703,264,735,296,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8865.jpg 526,675,607,739,0 687,339,719,371,0 802,25,832,54,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8869.jpg 686,387,721,424,0 806,45,839,78,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8872.jpg 687,429,725,471,0 809,60,844,95,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8878.jpg 677,526,719,572,0 808,105,845,142,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8886.jpg 642,671,687,719,0 801,178,839,215,0 398,401,428,427,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8889.jpg 818,206,857,243,0 411,426,441,453,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8893.jpg 847,253,887,289,0 431,481,462,512,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8895.jpg 852,283,892,319,0 431,516,462,547,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8907.jpg 833,359,873,401,0 379,589,410,626,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8912.jpg 854,386,899,434,0 392,614,421,652,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8918.jpg 867,452,913,502,0 384,671,412,709,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8922.jpg 897,531,949,587,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8924.jpg 906,574,958,630,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8933.jpg 875,672,927,719,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8934.jpg 868,673,920,719,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/8986.jpg 480,0,514,20,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9012.jpg 414,215,449,244,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9031.jpg 409,243,453,272,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9055.jpg 422,500,483,551,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9071.jpg 487,538,550,598,0 794,123,841,157,0 686,245,722,277,0 627,292,666,324,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9080.jpg 501,603,529,633,0 622,177,656,204,0 846,303,893,345,0 729,431,778,468,0 626,450,676,498,0 681,484,723,524,0 651,502,697,552,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9081.jpg 496,600,524,630,0 619,178,653,205,0 838,302,891,352,0 725,437,777,476,0 623,452,673,500,0 676,486,719,532,0 645,505,696,558,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9085.jpg 480,581,508,611,0 606,140,640,167,0 833,279,879,316,0 708,409,760,448,0 604,425,654,474,0 655,461,695,496,0 629,479,681,529,0 419,130,443,155,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9099.jpg 483,602,513,640,0 627,136,664,173,0 868,303,923,342,0 831,232,880,276,0 732,441,786,492,0 618,454,675,507,0 404,16,447,56,0 673,501,716,546,0 636,516,692,574,0 422,132,449,157,0 644,166,670,205,0 207,591,249,628,0 1058,427,1108,464,0 1080,413,1127,445,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9101.jpg 488,638,518,676,0 631,164,671,202,0 876,331,931,378,0 839,258,888,302,0 738,473,795,528,0 624,483,681,538,0 408,40,451,80,0 684,20,722,59,0 821,13,877,63,0 545,2,571,27,0 680,536,723,581,0 644,551,700,609,0 426,163,453,189,0 649,195,676,235,0 206,625,248,669,0 1075,462,1126,501,0 1094,449,1144,480,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9106.jpg 639,247,675,283,0 895,410,952,461,0 851,338,900,382,0 750,563,807,618,0 627,575,684,630,0 412,106,458,154,0 689,88,727,127,0 646,6,690,38,0 831,82,887,132,0 550,79,576,104,0 374,41,407,66,0 689,631,737,683,0 656,650,717,710,0 424,244,451,270,0 655,274,682,316,0 1108,569,1163,615,0 1122,553,1187,587,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9120.jpg 613,367,658,417,0 885,561,945,611,0 844,464,893,514,0 378,171,430,219,0 671,191,716,235,0 630,83,677,119,0 607,96,647,129,0 830,197,886,247,0 517,178,543,203,0 339,92,372,117,0 379,366,408,397,0 670,97,716,128,0 1019,107,1076,149,0 284,106,324,140,0 632,402,659,444,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9161.jpg 469,99,514,135,0 242,344,311,396,0 595,576,661,649,0 560,349,629,413,0 521,360,579,416,0 506,410,576,477,0 819,643,905,718,0 352,604,393,656,0 314,419,356,471,0 211,210,256,248,0 607,394,688,462,0 1133,561,1204,632,0 147,237,186,268,0 422,59,457,92,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9163.jpg 474,114,519,150,0 246,366,315,418,0 605,612,671,685,0 567,377,637,444,0 524,385,590,445,0 512,442,582,509,0 823,681,921,719,0 353,647,394,698,0 313,444,355,496,0 215,232,262,273,0 610,428,691,496,0 1163,600,1244,675,0 151,254,190,285,0 427,75,462,108,0 699,425,766,456,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9178.jpg 451,350,496,390,0 172,671,254,719,0 150,497,207,545,0 72,530,114,571,0 397,315,434,353,0 494,346,540,394,0 337,236,363,261,0 333,121,375,153,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9180.jpg 447,361,492,401,0 173,690,255,719,0 140,513,197,561,0 61,545,103,586,0 391,318,428,357,0 494,355,529,401,0 330,241,356,266,0 323,120,365,152,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9212.jpg 307,508,349,545,0 261,659,313,707,0 211,426,249,457,0 208,260,257,298,0 378,332,405,356,0 208,504,238,531,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9235.jpg 311,671,359,719,0 197,582,238,623,0 192,383,252,421,0 375,476,412,505,0 202,671,232,701,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9243.jpg 105,654,150,699,0 112,425,182,482,0 314,539,355,575,0 167,431,198,457,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9245.jpg 114,679,159,718,0 123,447,191,502,0 331,577,372,613,0 180,450,211,476,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9257.jpg 138,610,209,666,0 195,617,226,643,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9271.jpg 349,219,389,246,0 368,272,410,314,0 201,554,263,608,0 251,556,282,582,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9272.jpg 348,220,389,247,0 364,275,404,317,0 191,558,263,607,0 249,560,280,586,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9276.jpg 338,222,382,249,0 362,282,396,319,0 176,571,240,631,0 240,582,271,608,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9293.jpg 329,298,374,328,0 353,363,390,401,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9309.jpg 287,436,332,470,0 320,521,359,556,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9310.jpg 281,445,326,479,0 312,531,351,566,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9312.jpg 277,463,324,498,0 300,548,341,584,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9313.jpg 279,472,328,508,0 296,556,341,598,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9382.jpg 424,680,511,719,0 450,556,515,619,0 340,420,390,474,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9384.jpg 395,678,486,718,0 422,555,491,620,0 311,410,361,464,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9388.jpg 363,583,434,650,0 251,417,304,478,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9392.jpg 334,633,405,698,0 229,451,282,512,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9395.jpg 337,681,408,719,0 226,482,279,543,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9477.jpg 455,259,485,289,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9489.jpg 434,341,464,371,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9498.jpg 459,447,491,478,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9500.jpg 470,478,502,509,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9523.jpg 392,653,424,684,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9524.jpg 397,658,429,689,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9525.jpg 401,664,433,695,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_1/9526.jpg 406,674,438,705,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/4740.jpg 138,588,183,642,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5363.jpg 701,133,750,172,0 442,453,496,507,0 155,367,220,427,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5366.jpg 684,212,724,259,0 403,536,459,589,0 101,442,169,508,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5367.jpg 678,248,718,295,0 390,577,446,630,0 80,476,155,544,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5377.jpg 220,141,255,184,0 627,574,667,621,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5379.jpg 207,139,242,182,0 614,601,661,651,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5396.jpg 191,127,226,170,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5403.jpg 175,218,224,265,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5432.jpg 220,313,269,360,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5433.jpg 214,313,263,360,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5441.jpg 171,379,220,426,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5463.jpg 400,253,434,288,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5468.jpg 372,342,406,377,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5473.jpg 342,403,376,438,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5481.jpg 352,365,386,400,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5506.jpg 263,579,304,618,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5675.jpg 356,139,390,170,0 317,155,343,176,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5706.jpg 359,205,397,239,0 317,223,353,257,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5707.jpg 363,219,401,253,0 321,236,357,270,0 596,99,624,124,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5728.jpg 765,88,809,118,0 575,125,619,157,0 333,450,378,492,0 290,470,327,507,0 580,292,620,326,0 619,129,647,149,0 682,10,724,38,0 695,103,732,133,0 762,156,817,189,0 771,120,812,147,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5739.jpg 576,212,629,246,0 590,318,632,350,0 664,311,710,345,0 871,66,916,107,0 926,87,985,125,0 464,328,510,366,0 448,550,488,590,0 506,332,537,353,0 794,95,845,140,0 356,138,409,175,0 1006,257,1057,294,0 625,340,660,366,0 903,270,947,307,0 658,396,713,434,0 667,347,708,376,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5753.jpg 518,336,574,377,0 520,453,572,496,0 600,460,664,510,0 854,188,900,230,0 967,138,1013,175,0 913,219,974,266,0 377,458,430,504,0 415,476,451,503,0 769,211,821,258,0 270,238,331,285,0 1002,449,1058,500,0 548,488,600,529,0 865,426,925,469,0 581,593,647,648,0 598,515,653,557,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5768.jpg 606,374,670,430,0 623,502,677,552,0 716,513,786,572,0 654,543,720,607,0 993,175,1046,223,0 1138,87,1202,146,0 1073,206,1148,264,0 468,531,525,584,0 513,543,555,573,0 888,201,951,259,0 331,286,393,339,0 1209,530,1279,607,0 1021,447,1087,503,0 747,628,803,665,0 442,8,491,42,0 390,9,431,33,0 716,598,782,654,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5776.jpg 624,452,683,510,0 641,586,696,636,0 734,602,816,668,0 676,633,740,702,0 1037,230,1097,283,0 1203,132,1270,198,0 1140,265,1217,326,0 477,621,543,673,0 529,630,569,667,0 919,255,982,313,0 320,354,387,417,0 1074,528,1143,587,0 439,24,496,74,0 387,32,430,63,0 554,41,589,77,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5777.jpg 620,463,680,521,0 638,600,697,650,0 735,617,815,683,0 672,645,742,712,0 1036,240,1098,294,0 1202,142,1269,208,0 1138,276,1216,338,0 475,634,540,685,0 527,641,564,679,0 918,265,981,323,0 317,363,385,427,0 1074,539,1147,600,0 437,29,494,79,0 383,36,426,67,0 550,47,585,83,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5808.jpg 862,59,911,95,0 995,60,1060,113,0 237,367,287,415,0 205,333,278,394,0 431,204,486,260,0 124,340,180,376,0 351,375,395,425,0 380,237,406,260,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5810.jpg 867,68,921,106,0 1007,79,1072,132,0 237,375,287,425,0 201,341,277,405,0 430,217,487,275,0 120,349,176,389,0 350,386,394,436,0 378,246,404,269,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5823.jpg 927,210,996,259,0 1108,260,1181,323,0 221,514,284,572,0 183,469,272,546,0 438,343,500,410,0 92,477,151,521,0 347,525,399,582,0 376,362,407,393,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5832.jpg 1000,354,1064,408,0 1220,433,1279,504,0 210,659,282,719,0 746,28,796,62,0 177,611,266,688,0 451,487,513,554,0 87,629,157,681,0 387,501,418,532,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5849.jpg 774,269,824,308,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5888.jpg 746,529,776,555,0 699,620,762,674,0 594,328,629,357,0 598,359,625,391,0 578,349,606,378,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5892.jpg 745,593,775,619,0 696,700,766,718,0 589,372,625,404,0 594,405,621,437,0 570,394,598,423,0 379,189,403,207,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5894.jpg 750,618,780,644,0 590,385,627,419,0 593,420,622,453,0 569,408,599,437,0 380,200,402,219,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5896.jpg 756,640,786,666,0 590,398,628,433,0 591,434,623,468,0 569,421,601,451,0 376,203,404,233,0 401,211,422,235,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5898.jpg 757,663,787,689,0 590,411,629,447,0 590,448,624,483,0 568,434,601,465,0 376,208,400,232,0 396,213,425,242,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5909.jpg 573,508,615,551,0 571,555,610,593,0 556,537,592,570,0 357,267,381,291,0 375,274,404,303,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5916.jpg 546,577,592,625,0 548,629,587,666,0 526,610,562,643,0 327,307,352,333,0 346,318,375,347,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5925.jpg 526,653,577,701,0 504,689,540,719,0 303,345,329,372,0 323,356,352,385,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5929.jpg 300,376,326,403,0 320,387,349,417,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5935.jpg 277,431,304,459,0 298,443,327,475,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5937.jpg 265,443,293,472,0 287,456,316,488,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/5949.jpg 232,485,260,514,0 258,503,287,535,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6247.jpg 513,96,549,133,0 489,120,522,151,0 468,135,503,169,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6252.jpg 513,206,549,243,0 490,226,523,257,0 465,249,502,284,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6261.jpg 503,536,539,573,0 473,565,509,598,0 449,587,491,627,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6329.jpg 356,40,383,67,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6332.jpg 345,53,372,80,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6349.jpg 246,114,279,142,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6367.jpg 172,134,205,162,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6380.jpg 134,301,167,331,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6386.jpg 100,313,134,347,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6387.jpg 88,321,122,355,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6388.jpg 76,329,110,363,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6398.jpg 33,505,78,545,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6406.jpg 10,505,55,545,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6407.jpg 7,504,52,544,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6489.jpg 189,662,219,699,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/6491.jpg 179,677,209,714,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/7971.jpg 504,373,539,393,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/8002.jpg 383,606,423,643,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/8005.jpg 363,649,403,691,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/8859.jpg 479,484,526,523,0
+D:\yolox-tf2-main\tensorflow-great-barrier-reef\train_images/video_2/10624.jpg 114,402,154,429,0
